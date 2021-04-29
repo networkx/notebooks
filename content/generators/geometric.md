@@ -24,8 +24,8 @@ language_info:
 
 # Tutorial: Geometric Generator Models
 
-In this tutorial, we'll explore the geometric network generator models
-implemented in networkx under networkx/generators/geometric.py and apply them
+In this tutorial, we'll explore the
+{mod}`geometric network generator <networkx.generators.geometric>` models and apply them
 to a real-world use case to learn how these models can be parameterized and used.
 
 ## Geometric/Spatial Networks
