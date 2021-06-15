@@ -6,3 +6,5 @@ sphinx
 myst-nb
 pydata-sphinx-theme
 jupytext
+pandas
+numpy
